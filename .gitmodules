@@ -3,22 +3,22 @@
 	url = git://git.sv.nongnu.org/freetype/freetype2.git
 [submodule "src/third_party/harfbuzz/harfbuzz"]
 	path = src/third_party/harfbuzz/harfbuzz
-	url = https://github.com/behdad/harfbuzz.git
+	url = https://github.com/vuljector/harfbuzz
 [submodule "src/third_party/fribidi/fribidi"]
 	path = src/third_party/fribidi/fribidi
-	url = https://github.com/fribidi/fribidi.git
+	url = https://github.com/vuljector/fribidi
 [submodule "src/third_party/raqm/libraqm"]
 	path = src/third_party/raqm/libraqm
-	url = https://github.com/HOST-Oman/libraqm.git
+	url = https://github.com/vuljector/libraqm
 [submodule "src/third_party/sheenbidi/sheenbidi"]
 	path = src/third_party/sheenbidi/sheenbidi
-	url = https://github.com/Tehreer/SheenBidi.git
+	url = https://github.com/vuljector/SheenBidi
 [submodule "src/third_party/sheenfigure/sheenfigure"]
 	path = src/third_party/sheenfigure/sheenfigure
-	url = https://github.com/Tehreer/SheenFigure.git
+	url = https://github.com/vuljector/SheenFigure
 [submodule "src/third_party/allsorts/allsorts-tools"]
 	path = src/third_party/allsorts/allsorts-tools
-	url = https://github.com/yeslogic/allsorts-tools
+	url = https://github.com/vuljector/allsorts-tools
 [submodule "src/third_party/swash/swash"]
 	path = src/third_party/swash/swash
-	url = https://github.com/dfrg/swash
+	url = https://github.com/vuljector/swash
